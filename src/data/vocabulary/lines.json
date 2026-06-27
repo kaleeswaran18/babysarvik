@@ -3,153 +3,51 @@
   "name": "Lines",
   "items": [
     {
-      "id": "line",
-      "name": "Line",
-      "image": "",
-      "audio": null
-    },
-    {
       "id": "straight_line",
       "name": "Straight Line",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558750/download_57_lw8ffa.jpg",
       "audio": null
     },
     {
       "id": "curved_line",
       "name": "Curved Line",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558870/Curved_o5gaxs.jpg",
       "audio": null
     },
     {
       "id": "zigzag_line",
       "name": "Zigzag Line",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558927/download_58_mhxmvn.jpg",
       "audio": null
     },
     {
       "id": "wavy_line",
       "name": "Wavy Line",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558971/waves_lines_border_iwroul.jpg",
       "audio": null
     },
     {
       "id": "horizontal_line",
       "name": "Horizontal Line",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559027/Luxury_fashion_independent_designers___SSENSE_gy5roq.jpg",
       "audio": null
     },
     {
       "id": "vertical_line",
       "name": "Vertical Line",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559069/Beeldaspect_lijn_sgyt4b.jpg",
       "audio": null
     },
     {
       "id": "diagonal_line",
       "name": "Diagonal Line",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559117/Diagonal_PNG_Images_Transparent_HD_Photo_Clipart_osqiwd.jpg",
       "audio": null
     },
     {
-      "id": "broken_line",
-      "name": "Broken Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "dotted_line",
-      "name": "Dotted Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "dashed_line",
-      "name": "Dashed Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "parallel_lines",
-      "name": "Parallel Lines",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "crossing_lines",
-      "name": "Crossing Lines",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "intersecting_lines",
-      "name": "Intersecting Lines",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "thick_line",
-      "name": "Thick Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "thin_line",
-      "name": "Thin Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "long_line",
-      "name": "Long Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "short_line",
-      "name": "Short Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "arrow_line",
-      "name": "Arrow Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "loop_line",
-      "name": "Loop Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "spiral_line",
-      "name": "Spiral Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "curly_line",
-      "name": "Curly Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "upward_line",
-      "name": "Upward Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "downward_line",
-      "name": "Downward Line",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "pattern_line",
-      "name": "Pattern Line",
-      "image": "",
+      "id": "sleeping_line",
+      "name": "Sleeping Line",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559237/Parallel_Lines_PNG_Images_Transparent_HD_Photo_Clipart_l3sjvl.jpg",
       "audio": null
     }
   ]

@@ -3,153 +3,33 @@
   "name": "Directions",
   "items": [
     {
-      "id": "up",
-      "name": "Up",
-      "image": "",
+      "id": "go_straight",
+      "name": "Go Straight",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782560072/download_59_j3s9rk.jpg",
       "audio": null
     },
     {
-      "id": "down",
-      "name": "Down",
-      "image": "",
+      "id": "turn_left",
+      "name": "Turn Left",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782560122/Vector_Turn_Left_Icon_Arrow_Left_Left_Turn_PNG_and_Vector_with_Transparent_Background_for_Free_Download_by89mf.jpg",
       "audio": null
     },
     {
-      "id": "left",
-      "name": "Left",
-      "image": "",
+      "id": "turn_right",
+      "name": "Turn Right",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782560162/Right_turn_arrow_icon__Design_template_vector_whopgo.jpg",
       "audio": null
     },
     {
-      "id": "right",
-      "name": "Right",
-      "image": "",
+      "id": "stop",
+      "name": "Stop",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782560265/STOP___The_Ultimate_Attention-Grabbing_wuhwmd.jpg",
       "audio": null
     },
     {
-      "id": "forward",
-      "name": "Forward",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "backward",
-      "name": "Backward",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "in",
-      "name": "In",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "out",
-      "name": "Out",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "inside",
-      "name": "Inside",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "outside",
-      "name": "Outside",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "top",
-      "name": "Top",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "bottom",
-      "name": "Bottom",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "front",
-      "name": "Front",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "back",
-      "name": "Back",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "near",
-      "name": "Near",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "far",
-      "name": "Far",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "over",
-      "name": "Over",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "under",
-      "name": "Under",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "above",
-      "name": "Above",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "below",
-      "name": "Below",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "around",
-      "name": "Around",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "between",
-      "name": "Between",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "next_to",
-      "name": "Next To",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "across",
-      "name": "Across",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "through",
-      "name": "Through",
-      "image": "",
+      "id": "u_turn",
+      "name": "U-Turn",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782560307/U-Turn_Sticker_vrdtxd.jpg",
       "audio": null
     }
   ]
