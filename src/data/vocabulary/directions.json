@@ -1,0 +1,156 @@
+{
+  "id": "directions",
+  "name": "Directions",
+  "items": [
+    {
+      "id": "up",
+      "name": "Up",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "down",
+      "name": "Down",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "left",
+      "name": "Left",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "right",
+      "name": "Right",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "forward",
+      "name": "Forward",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "backward",
+      "name": "Backward",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "in",
+      "name": "In",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "out",
+      "name": "Out",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "inside",
+      "name": "Inside",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "outside",
+      "name": "Outside",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "top",
+      "name": "Top",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "bottom",
+      "name": "Bottom",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "front",
+      "name": "Front",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "back",
+      "name": "Back",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "near",
+      "name": "Near",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "far",
+      "name": "Far",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "over",
+      "name": "Over",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "under",
+      "name": "Under",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "above",
+      "name": "Above",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "below",
+      "name": "Below",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "around",
+      "name": "Around",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "between",
+      "name": "Between",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "next_to",
+      "name": "Next To",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "across",
+      "name": "Across",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "through",
+      "name": "Through",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

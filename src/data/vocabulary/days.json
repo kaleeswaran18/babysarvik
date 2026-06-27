@@ -1,0 +1,48 @@
+{
+  "id": "days_of_the_week",
+  "name": "Days of the Week",
+  "items": [
+    {
+      "id": "monday",
+      "name": "Monday",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "tuesday",
+      "name": "Tuesday",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wednesday",
+      "name": "Wednesday",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "thursday",
+      "name": "Thursday",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "friday",
+      "name": "Friday",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "saturday",
+      "name": "Saturday",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sunday",
+      "name": "Sunday",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

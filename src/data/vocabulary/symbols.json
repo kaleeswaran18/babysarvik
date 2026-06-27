@@ -1,0 +1,126 @@
+{
+  "id": "common_symbols",
+  "name": "Common Symbols",
+  "items": [
+    {
+      "id": "heart",
+      "name": "Heart",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "check_mark",
+      "name": "Check Mark",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "cross_mark",
+      "name": "Cross Mark",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "plus",
+      "name": "Plus",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "minus",
+      "name": "Minus",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "multiply",
+      "name": "Multiply",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "divide",
+      "name": "Divide",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "equal",
+      "name": "Equal",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "percent",
+      "name": "Percent",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "rupee",
+      "name": "Rupee",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "dollar",
+      "name": "Dollar",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "at",
+      "name": "At",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "hash",
+      "name": "Hash",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "ampersand",
+      "name": "Ampersand",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "question_mark",
+      "name": "Question Mark",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "exclamation_mark",
+      "name": "Exclamation Mark",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "full_stop",
+      "name": "Full Stop",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "comma",
+      "name": "Comma",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "slash",
+      "name": "Slash",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

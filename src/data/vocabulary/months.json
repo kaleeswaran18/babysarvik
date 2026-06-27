@@ -1,0 +1,78 @@
+{
+  "id": "months_of_the_year",
+  "name": "Months of the Year",
+  "items": [
+    {
+      "id": "january",
+      "name": "January",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "february",
+      "name": "February",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "march",
+      "name": "March",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "april",
+      "name": "April",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "may",
+      "name": "May",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "june",
+      "name": "June",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "july",
+      "name": "July",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "august",
+      "name": "August",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "september",
+      "name": "September",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "october",
+      "name": "October",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "november",
+      "name": "November",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "december",
+      "name": "December",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

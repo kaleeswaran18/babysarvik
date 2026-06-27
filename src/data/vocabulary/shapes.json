@@ -1,0 +1,126 @@
+{
+  "id": "shapes",
+  "name": "Shapes",
+  "items": [
+    {
+      "id": "circle",
+      "name": "Circle",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "square",
+      "name": "Square",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "triangle",
+      "name": "Triangle",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "rectangle",
+      "name": "Rectangle",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "oval",
+      "name": "Oval",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "diamond",
+      "name": "Diamond",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "pentagon",
+      "name": "Pentagon",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "hexagon",
+      "name": "Hexagon",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "octagon",
+      "name": "Octagon",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "crescent",
+      "name": "Crescent",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "semicircle",
+      "name": "Semicircle",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "cube",
+      "name": "Cube",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sphere",
+      "name": "Sphere",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "cone",
+      "name": "Cone",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "cylinder",
+      "name": "Cylinder",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "pyramid",
+      "name": "Pyramid",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "oval_ring",
+      "name": "Oval Ring",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "cross",
+      "name": "Cross",
+      "image": "",
+      "audio": null
+    }
+  ]
+}
