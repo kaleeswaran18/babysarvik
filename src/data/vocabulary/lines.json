@@ -3,9 +3,23 @@
   "name": "Lines",
   "items": [
     {
-      "id": "straight_line",
-      "name": "Straight Line",
-      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558750/download_57_lw8ffa.jpg",
+      "id": "standing_line",
+      "name": "Standing Line",
+            "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559027/Luxury_fashion_independent_designers___SSENSE_gy5roq.jpg",
+
+      "audio": null
+    },
+    {
+      "id": "sleeping_line",
+      "name": "Sleeping Line",
+            "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559069/Beeldaspect_lijn_sgyt4b.jpg",
+
+      "audio": null
+    },
+    {
+      "id": "slanting_line",
+      "name": "Slanting Line",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559117/Diagonal_PNG_Images_Transparent_HD_Photo_Clipart_osqiwd.jpg",
       "audio": null
     },
     {
@@ -27,26 +41,14 @@
       "audio": null
     },
     {
-      "id": "horizontal_line",
-      "name": "Horizontal Line",
-      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559027/Luxury_fashion_independent_designers___SSENSE_gy5roq.jpg",
+      "id": "spiral_line",
+      "name": "Spiral Line",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782814750/%C3%87%C4%B0ZG%C4%B0_%C3%87ALI%C5%9EMALARI_kujncg.jpg",
       "audio": null
     },
     {
-      "id": "vertical_line",
-      "name": "Vertical Line",
-      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559069/Beeldaspect_lijn_sgyt4b.jpg",
-      "audio": null
-    },
-    {
-      "id": "diagonal_line",
-      "name": "Diagonal Line",
-      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559117/Diagonal_PNG_Images_Transparent_HD_Photo_Clipart_osqiwd.jpg",
-      "audio": null
-    },
-    {
-      "id": "sleeping_line",
-      "name": "Sleeping Line",
+      "id": "parallel_lines",
+      "name": "Parallel Lines",
       "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559237/Parallel_Lines_PNG_Images_Transparent_HD_Photo_Clipart_l3sjvl.jpg",
       "audio": null
     }

@@ -62,22 +62,19 @@
       "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558121/hexagon_shape_gzzl7a.jpg",
       "audio": null
     },
-    {
-      "id": "octagon",
-      "name": "Octagon",
-      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558222/download_55_ttcn3e.jpg",
-      "audio": null
-    },
+   
     {
       "id": "crescent",
       "name": "Crescent",
-      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558268/0_u7gfzr.jpg",
+            "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558222/download_55_ttcn3e.jpg",
+
       "audio": null
     },
     {
       "id": "semicircle",
       "name": "Semicircle",
-      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558317/download_56_kcsejn.jpg",
+       "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558268/0_u7gfzr.jpg",
+    
       "audio": null
     },
    
