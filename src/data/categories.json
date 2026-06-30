@@ -128,6 +128,18 @@
           "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?w=600&q=80",
           "vocabularyFile": "directions.json"
         },
+         {
+          "id": "nature",
+          "name": "Nature",
+          "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+          "vocabularyFile": "nature.json"
+        },
+        {
+          "id": "family",
+          "name": "Family",
+          "image": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=600&q=80",
+          "vocabularyFile": "family.json"
+        },
         {
           "id": "prepositions",
           "name": "Prepositions",
@@ -158,6 +170,104 @@
         }
       ]
     },
+    
+    {
+  "id": "social_communication",
+  "name": "Social & Communication",
+  "emoji": "💬",
+  "subcategories": [
+    {
+      "id": "action_verbs",
+      "name": "Action Verbs",
+      "vocabularyFile": "action_verbs.json"
+    },
+    {
+      "id": "common_actions",
+      "name": "Common Actions",
+      "vocabularyFile": "common_actions.json"
+    },
+    {
+      "id": "daily_conversation",
+      "name": "Daily Conversation",
+      "vocabularyFile": "daily_conversation.json"
+    },
+    {
+      "id": "feelings_emotions",
+      "name": "Feelings & Emotions",
+      "vocabularyFile": "feelings_emotions.json"
+    },
+    {
+      "id": "personality",
+      "name": "Personality",
+      "vocabularyFile": "personality.json"
+    },
+    {
+      "id": "character_behavior",
+      "name": "Character & Behavior",
+      "vocabularyFile": "character_behavior.json"
+    },
+    {
+      "id": "trust_relationships",
+      "name": "Trust & Relationships",
+      "vocabularyFile": "trust_relationships.json"
+    },
+    {
+      "id": "positive_words",
+      "name": "Positive Words",
+      "vocabularyFile": "positive_words.json"
+    },
+    {
+      "id": "negative_words",
+      "name": "Negative Words",
+      "vocabularyFile": "negative_words.json"
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "vocabularyFile": "communication.json"
+    },
+    {
+      "id": "manners_etiquette",
+      "name": "Manners & Etiquette",
+      "vocabularyFile": "manners_etiquette.json"
+    },
+    {
+      "id": "likes_dislikes",
+      "name": "Likes & Dislikes",
+      "vocabularyFile": "likes_dislikes.json"
+    },
+    {
+      "id": "thoughts_ideas",
+      "name": "Thoughts & Ideas",
+      "vocabularyFile": "thoughts_ideas.json"
+    },
+    {
+      "id": "memory_learning",
+      "name": "Memory & Learning",
+      "vocabularyFile": "memory_learning.json"
+    },
+    {
+      "id": "advice_suggestions",
+      "name": "Advice & Suggestions",
+      "vocabularyFile": "advice_suggestions.json"
+    },
+    {
+      "id": "respect_kindness",
+      "name": "Respect & Kindness",
+      "vocabularyFile": "respect_kindness.json"
+    },
+    {
+      "id": "love_friendship",
+      "name": "Love & Friendship",
+      "vocabularyFile": "love_friendship.json"
+    },
+    {
+      "id": "motivation_confidence",
+      "name": "Motivation & Confidence",
+      "vocabularyFile": "motivation_confidence.json"
+    }
+  ]
+},
     {
       "id": "language_communication",
       "name": "Language & Communication",
@@ -350,18 +460,12 @@
       "name": "Nature & Environment",
       "emoji": "🌍",
       "subcategories": [
-        {
-          "id": "nature",
-          "name": "Nature"
-        },
+       
         {
           "id": "weather",
           "name": "Weather"
         },
-        {
-          "id": "seasons",
-          "name": "Seasons"
-        },
+        
         {
           "id": "space",
           "name": "Space"
