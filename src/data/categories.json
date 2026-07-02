@@ -12,6 +12,13 @@
           "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
           "vocabularyFile": "alphabets.json"
         },
+        
+        {
+          "id": "good_habits",
+          "name": "Good Habits",
+            "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+          "vocabularyFile": "good_habits.json"
+        },
         {
           "id": "numbers",
           "name": "Numbers",
@@ -512,10 +519,6 @@
         {
           "id": "daily_routine",
           "name": "Daily Routine"
-        },
-        {
-          "id": "good_habits",
-          "name": "Good Habits"
         }
       ]
     },
