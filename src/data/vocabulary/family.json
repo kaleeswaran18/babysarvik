@@ -3,123 +3,75 @@
   "name": "Family",
   "items": [
     {
-      "id": "neighbor",
-      "name": "Neighbor",
-      "image": "",
-      "audio": null
-    },
-    {
       "id": "father",
       "name": "Father",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782828805/Man_with_Glasses_and_Beard_in_Blue_Shirt_Standing_with_Arms_Crossed_Stock_Vector_jtpz5y.jpg",
       "audio": null
     },
     {
       "id": "mother",
       "name": "Mother",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782882751/download_-_2026-07-01T104214.104_lgggys.jpg",
       "audio": null
     },
     {
       "id": "brother",
       "name": "Brother",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782882849/3dart_nqnpdr.jpg",
       "audio": null
     },
     {
       "id": "sister",
       "name": "Sister",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782882847/3D_cute_cartoon_girl_pointing_sideways_playful_smile_brown_hair_in_ponytail__wxw0yh.jpg",
       "audio": null
     },
     {
       "id": "baby",
       "name": "Baby",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782882920/download_-_2026-07-01T104449.092_xkroch.jpg",
       "audio": null
     },
     {
       "id": "grandfather",
       "name": "Grandfather",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782882988/Old_man_white_Beard_hqqwh5.jpg",
       "audio": null
     },
     {
       "id": "grandmother",
       "name": "Grandmother",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782883049/download_-_2026-07-01T104705.189_e95g6f.jpg",
       "audio": null
     },
     {
       "id": "uncle",
       "name": "Uncle",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782883115/download_-_2026-07-01T104812.501_i5qnvz.jpg",
       "audio": null
     },
     {
       "id": "aunt",
       "name": "Aunt",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782883125/download_-_2026-07-01T104820.804_yoamra.jpg",
       "audio": null
     },
     {
       "id": "cousin",
       "name": "Cousin",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "son",
-      "name": "Son",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "daughter",
-      "name": "Daughter",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "grandpa",
-      "name": "Grandpa",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "grandma",
-      "name": "Grandma",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782883194/download_-_2026-07-01T104939.357_w8km0f.jpg",
       "audio": null
     },
     {
       "id": "boy",
       "name": "Boy",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782967512/download_c37nh2.webp",
       "audio": null
     },
     {
       "id": "girl",
       "name": "Girl",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "child",
-      "name": "Child",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "parents",
-      "name": "Parents",
-      "image": "",
-      "audio": null
-    },
-    {
-      "id": "home",
-      "name": "Home",
-      "image": "",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782967489/download_-_2026-07-01T105156.654_zjltm4.jpg",
       "audio": null
     }
   ]
